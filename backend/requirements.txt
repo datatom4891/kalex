@@ -7,7 +7,6 @@ jupyter
 python_dotenv
 langchain-chroma
 langchain-community
-streamlit
 tavily-python
 fastapi
 uvicorn
