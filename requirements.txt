@@ -1,0 +1,14 @@
+langgraph
+langchain_core
+langchain-openai 
+langchain-tavily 
+tiktoken
+jupyter
+python_dotenv
+langchain-chroma
+langchain-community
+streamlit
+tavily-python
+fastapi
+uvicorn
+SQLAlchemy
